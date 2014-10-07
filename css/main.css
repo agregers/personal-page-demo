@@ -55,3 +55,16 @@ footer a:visited {
 	float: left;
 	margin-right: 1em;
 }
+
+#education {
+	clear: both;
+}
+
+#about {
+	overflow: auto;
+}
+
+#contact a:link,
+#contact a:visited {
+	color: #EED234;
+	text-decoration: none;
